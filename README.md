@@ -1,3 +1,3 @@
 # HandDrawn-Trajectory-MATLAB
 
-Lunch mainCreateMap.m
+Run mainCreateMap.m
